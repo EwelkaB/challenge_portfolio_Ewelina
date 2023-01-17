@@ -37,11 +37,11 @@ Aplikacja jest przeznaczona dla skautów piłki nożnej czyli "łowców talentó
 
 #### _**Główne funkcjonalności aplikacji**_
 
-#### **1. Strona główna - Dashbord**
+#### **1. Strona główna - Dashboard**
 
-Strona główna aplikacji na którą przenosimy sie po poprawnym zalogowaniu powinna być przejrzysta i czytela. Z menu łatwo można wybrać główne funkcjonalności, a poruszanie sie po stronie powinno być intuicyjne. Poza tym logo i kafelki powinny być rozmieszczone równomiernie i utrzymane w określonej kolorystyce.  
+W tej funkcjonalności na stronie głównej aplikacji dosępne są linki, które pozwalaja na dodane do bazy nowego graczza, śledzenie ostatnich aktywnośći w aplikacji, wybór jezyka w jakim bedzie wyświetlana strona. Dodatkowo widoczne sa informacje o Ilości graczy, Ilości meczy i Ilości raportów oraz akcji. Na stroni głównej umieszczone jest logo organizacji  oraz link to kontaktu. 
 
-Wygląd strony nie jest intuicyjny. Jest ona mało czytelna,  trudno jest znaleźć odnośniki do głównych funkcjonalności. Menu główne jest bardzo krótkie i nie ułatwia poruszania się po aplikacji. Kafelki są mocno rozstrzelone po stronie co powoduje, że źle się to ogląda. 
+Wygląd strony nie jest intuicyjny. Jest ona mało czytelna, trudno jest znaleźć odnośniki do głównych funkcjonalności. Menu główne jest bardzo krótkie i nie ułatwia poruszania się po aplikacji. Kafelki są mocno rozstrzelone po stronie co powoduje, że źle się to ogląda. 
 Aplikacja lepiej się prezentuje jeśli wyświetlimy ja na urządzeniu mobilnym (np.  telefon Samsung lub iPhone). Brak udogodnień dla osób słabowidzących ( dopasowanie kontrastu wyświetlanej strony, zmiana wielkości czcionki). 
 
 Zauważone błędy/ proponwane usprawnienia:
@@ -57,13 +57,13 @@ Zauważone błędy/ proponwane usprawnienia:
 
 #### **2. Logowanie/Wylogowywanie**
 
-Po podaniu poprawnych danych do logowania: loginu i hasła aplikacja przenosi nas na stronę główną. Jeśli nie podamy loginu i/lub hasła pojawia się komunikat, że te pola muszą być uzupełnione. Dostępna jest opcja przypomnienia hasła - w tej sytuacji konieczne jest podanie emaila na który zostaną przesłane dane do edycji hasła. Funkcja wyloguj przenosi nas na stronę do logowania.
-Obie funkcjonalności działają poprawnie. 
+W funkcjonalnoości Logowanie po podaniu poprawnych danych do logowania: loginu i hasła, aplikacja przenosi nas na stronę główną. Jeśli nie podamy loginu i/lub hasła pojawia się komunikat, że te pola muszą być uzupełnione. Dostępna jest opcja przypomnienia hasła - w tej sytuacji konieczne jest podanie emaila, na który zostaną przesłane dane do edycji hasła. Funkcja Wyloguj przenosi nas z aplikacji na stronę do logowania. Aby powrócic do aplikacji konieczne jest ponowne logowanie. 
+Obie funkcjonalności Logowanie i Wylogowywanie działają poprawnie. 
 
 
 #### **3. Dodawanie gracza**
 
-Ta funkcjonalność umożliwia dodanie nowego zawodnika do bazy. Po kliknięciu w link Dodaj Gracza otwiera się formularz z polami do uzupełnienia – wpisujemy tu  podstawowe informacje o graczu tj. Imię, Nazwisko, Data Urodzenia, Waga,Pozycja na boisku itp..  
+Ta funkcjonalność umożliwia dodanie nowego zawodnika do bazy. Po kliknięciu w link Dodaj Gracza otwiera się formularz z polami do uzupełnienia – wpisujemy tu  podstawowe informacje o graczu tj. Imię, Nazwisko, Data Urodzenia, Waga, Pozycja na boisku itp..  
 
 Zauważone błędy/ proponwane usprawnienia:
 * Brak walidacji pól: dopuszczalne wartość ujemne w polach Waga, Wzrost, pole Data urodzenia pozwala wpisać datę w przyszłości, rok urodzenia można wpisać dowolny bez żadnych ograniczeń, w polach tekstowych można użyć zarówno liter jak i znaków specjalnych, w polu Telefon można wpisać litery.
