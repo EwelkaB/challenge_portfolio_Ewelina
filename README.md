@@ -125,6 +125,12 @@ Zauważone błędy:
 #### _**Podsumowanie**_
 
 W mojej ocenie testowana aplikacja jest ciekawym narzędziem do zbierania danych o zawodnikach piłki nożnej i może być pomocna przy poszukiwaniu młodych dobrze zapowiadających się sportowców. Jednak, aby do tego doszło potrzebne są nakłady czasu i pracy zarówno po stronie programistów jak i testerów. :blush: 
+
+## Subtask 5
+
+Dołączyłam do ekipy w Jira :smile: 
+
+https://justboat.atlassian.net/jira/software/projects/CPP/boards/1
  
 
 
