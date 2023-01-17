@@ -63,10 +63,11 @@ Obie funkcjonalności działają poprawnie.
 
 #### **3. Dodawanie gracza**
 
-Po kliknięciu w link dodaj gracza otwiera się formularz z polami do uzupełnienia – są to podstawowe informacje o graczu ( Imię, Nazwisko, Data Urodzenia, Waga,Pozycja na boisku itp.). Pola te powinny być zwalidowane, mieć określona możliwą do wpisania ilość znaków. 
+Po kliknięciu w link dodaj gracza otwiera się formularz z polami do uzupełnienia – są to podstawowe informacje o graczu ( Imię, Nazwisko, Data Urodzenia, Waga,Pozycja na boisku itp.).  
 
 Zauważone błędy:
 * Brak walidacji pól: dopuszczalne wartość ujemne w polach Waga, Wzrost, pole Data urodzenia pozwala wpisać datę w przyszłości, rok urodzenia można wpisać dowolny bez żadnych ograniczeń, w polach tekstowych można użyć zarówno liter jak i znaków specjalnych, w polu Telefon można wpisać litery.
+* Brak walidacji pól wpływa n abezpieczeństwo aplikacji.
 *	Pola tekstowe nie mają graniczonej liczba znaków jakie można wprowadzić w danym polu. 
 *	Możliwe jest dodanie gracza do bazy bez kompletu informacji – tylko 3 pola są obowiązkowe ( Imię, Nazwisko, Data urodzenia) 
 *	Pola z danymi do kontaktu ( E-mail, Telefon ) nie są wymaganea powinny być. 
