@@ -21,11 +21,11 @@
   
   [4. Aktualizacja danych gracza](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#Aktualizacja-danych-gracza)
   
-  [5. Przeglądanie bazy danych graczy](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#5.-Przeglądanie-bazy-danych-graczy)
+  [5. Przeglądanie bazy danych graczy](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#5.Przeglądanie-bazy-danych-graczy)
   
-  [6. Dodawanie meczu](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#Dodawanie-meczu)
+  [6. Dodawanie meczu](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#6.Dodawanie-meczu)
   
-  [7. Dodawanie raportu](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#Dodawanie-raportu)
+  [7. Dodawanie raportu](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#7.Dodawanie-raportu)
   
   
 
