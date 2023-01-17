@@ -19,7 +19,7 @@
 
 _**Do czego służy aplikacja?**_
 
-Aplikacja jest przeznaczona dla skautów piłki nożnej, czyli "łowców talentów", którzy dzięki zebranym tutaj informacją mogą łatwo wyszukać najbardziej wartościowych zawodników. Ta aplikacja powinna umożliwić dodanie nowego gracza do bazy i uzupełnienie wszystkich kluczowych informacji o nim, jak również wpisanie jego wyników i osiągnięć na boisku. Poprawnie stworzona baza danych graczy powinna pozwolić  na tworzenia indywidualnych raportów z wynikami każdego z graczy oraz ich porównywanie.
+Aplikacja jest przeznaczona dla skautów piłki nożnej, czyli "łowców talentów", którzy dzięki zebranym tutaj informacją mogą łatwo wyszukać najbardziej wartościowych zawodników. Ta aplikacja powinna umożliwić dodanie nowego gracza do bazy i uzupełnienie wszystkich kluczowych informacji o nim, jak również wpisanie jego wyników i osiągnięć na boisku. Poprawnie stworzona baza danych graczy powinna pozwolić na łatwe ich filtrowanie oraz tworzenie indywidualnych raportów dla każdego z graczy. 
 
 _**Główne funkcjonalności aplikacji**_
 
@@ -29,7 +29,7 @@ Strona główna aplikacji na którą przenosimy sie po poprawnym zalogowaniu pow
 Wygląd strony nie jest intuicyjny. Jest ona mało czytelna,  trudno jest znaleźć odnośniki do głównych funkcjonalności. Menu główne jest bardzo krótkie i nie ułatwia poruszania się po aplikacji. Kafelki są mocno rozstrzelone po stronie co powoduje, że źle się to ogląda. 
 Aplikacja lepiej się prezentuje jeśli wyświetlimy ja na urządzeniu mobilnym (np.  telefon Samsung lub iPhone). Brak udogodnień dla osób słabowidzących ( dopasowanie kontrastu wyświetlanej strony, zmiana wielkości czcionki). 
 
-Zauważone blędy:
+Zauważone błędy:
 * Kafelki są źle rozmieszczone, mocno rozrzucone na stronie.
 * Nagłówki poszczególnych kafelków są opisane po polsku i angielsku i zawierają błędy ( literówki).  
 *	Logo organizacji jest umieszczone w przypadkowym miejscu. 
@@ -47,13 +47,13 @@ Po podaniu poprawnych danych do logowania: loginu i hasła aplikacja przenosi na
 
 **3. Dodawanie gracza**
 
-Po kliknięciu w link Dodaj gracza otwiera się formularz z polami do uzupełnienia – są to podstawowe informacje o graczu. 
+Po kliknięciu w link dodaj gracza otwiera się formularz z polami do uzupełnienia – są to podstawowe informacje o graczu. 
 
-Zauważone blędy:
-* Brak walidacji pól: dopuszczalne wartość ujemne w polach Waga, Wzrost, pole Data urodzenia pozwala wpisać datę w przyszłości, rok urodzenia można wpisać dowolny bez żadnych ograniczeń, w polach tekstowych można użyć zarówno liter jak i znaków specjalnych, w polu Telefon można wpisać litery
+Zauważone błędy:
+* Brak walidacji pól: dopuszczalne wartość ujemne w polach Waga, Wzrost, pole data urodzenia pozwala wpisać datę w przyszłości, rok urodzenia można wpisać dowolny bez żadnych ograniczeń, w polach tekstowych można użyć zarówno liter jak i znaków specjalnych, w polu telefon można wpisać litery
 *	Pola tekstowe nie mają graniczonej liczba znaków jakie można wprowadzić w danym polu 
-*	Możliwość dodania gracza do bazy bez kompletu informacji – tylko 3 pola są obowiązkowe ( Imię, Nazwisko, Data Urodzenia) 
-*	Pola z danymi do kontaktu ( E-mail, Telefon ) nie są wymagane 
+*	Możliwość dodania gracza do bazy bez kompletu informacji – tylko 3 pola są obowiązkowe ( imię, nazwisko, data urodzenia) 
+*	Pola z danymi do kontaktu ( e-mail, telefon ) nie są wymagane 
 *	Pola do podlinkowania różnią się  wyglądem/ wzorcem. Pole do linka z Youtube jest odkrywane i może być dodawane/ usuwane wielokrotnie.
 *	Pole Dodaj język jest odkrywane i może być dodawane/ usuwane wielokrotnie.
 
@@ -62,7 +62,7 @@ Zauważone blędy:
 
 Możliwa jest aktualizacja wszystkich pól z danymi gracza.
 
-Zauważone blędy:
+Zauważone błędy:
 *	Pola obowiązkowe również mogą być zmienione w dowolny sposób – brak walidacji.
 *	Nie jest wymagane dodatkowe potwierdzenie / akceptacja przy zatwierdzaniu zmian, wystarczy jedno kliknięcie, można to zrobić przypadkowo. 
 
@@ -70,7 +70,7 @@ Zauważone blędy:
 
 Ta funkcjonalność pozwala na przeglądanie tabeli, w której zapisano dane wszystkich graczy.  Tabela ma możliwość sortowania oraz filtrowania informacji o graczach wg wybranego klucza.
 
-Zauważone blędy:
+Zauważone błędy:
 *	Wiersze tabeli nie są ponumerowane
 *	Na jednej stronie tabeli prezentowanych jest tylko 10 wierszy i nie ma opcji zmiany tej ilości
 *	Niektóre nagłówki kolumn tabeli są  oznaczone strzałką informująca o możliwości sortowania, inne maja tylko informacje „Sort” która wyświetla się po najechaniu kursorem na nazwę kolumny
@@ -83,9 +83,9 @@ Zauważone blędy:
 
 **6. Dodawanie meczu**
 
-Ta funkcjonalność ma pomóc w pokazaniu osiągnięć i predyspozycji poszczególnych zawodników oraz ich zaangażowanie w meczu.  Dzięki tej funkcjonalności można tworzyć raporty. 
+Ta funkcjonalność ma pomóc w pokazaniu osiągnięć i predyspozycji poszczególnych zawodników podczas meczu, ich zaangażowanie w grę oraz zdolności komunikacyjne.  Dzięki tej funkcjonalności można tworzyć indywidualne raporty dla poszcególnych graczy. 
 
-Zauważone blędy:
+Zauważone błędy:
 *	Brak walidacji pól: dopuszczalne wartość ujemne w polach Numer i Czas gry, pole Data pozwala wpisać datę w przyszłości, rok można wpisać dowolny bez żadnych ograniczeń, w polach tekstowych można użyć zarówno liter jak i znaków specjalnych, w polu.
 *	Pole Kolor koszulki  można wpisać dowolny wymyślony kolor ( nie ma opcji wyboru z listy), pole Liga – również można wpisać dowolny tekst ( powinien być wybór z ograniczonej listy ). 
 *	Opisy pól w formularzu są po polsku i angielsku, powinny być dostosowane do wybranego języka. 
@@ -95,6 +95,16 @@ Zauważone blędy:
 *	Akcja Rozpocznij mecz dostępna z poziomu Dodawania meczu jest niejasna i  nieintuicyjna. 
 
 **7. Dodawanie raportu**
+
+Dla każdego gracza można utworzyć indywidualny raport po zagranym przez niego meczu, zawierający informacje o kluczowych zagraniach, asystach, golach, faulach posiadaniu piłki itp. Jeden zagrany mecz przez zawodnika to jeden raport.
+
+Zauważone błędy:
+*	Do jednego meczu można dodać kilka raportów dla tego samego gracza, taka opcja powoduje powstawanie duplikatów i zniekształca dane w raportach/ statystykach.
+*	Opcja wyboru raportów jest dostępna po wcześniejszym wyborze gracza, nie ma tej opcji w menu głównym.
+*	Zmiana ilości gwiazdek w recenzji w jednym raporcie powoduje, że w pozostałych raportach ta pozycja również zostaje zmieniona
+*	Forma prezentacji raportu po wyświetleniu jest nieestetyczna: logo i nagłówek przesunięte w lewo 
+*	Widoczne w raporcie paski edycji tekstu oraz opisy/ wyjaśnienia  czego dotyczy dana cześć raportu ( powinny się pojawiać przy najechaniu myszką na ikonkę  informacyjną) 
+*	Kolejność prezentowanych danych jest nielogiczna, dane statystyczne powinny się znaleźć w raporcie przed podsumowaniem i recenzją 
 
 
 
