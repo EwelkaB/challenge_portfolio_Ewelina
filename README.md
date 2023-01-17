@@ -13,19 +13,19 @@
 * [Do czego służy aplikacja](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#Do-czego-służy-aplikacja)
 * [Główne funkcjonalności aplikacji](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#Główne-funkcjonalności-aplikacji)
   
-  [1. Strona główna - Dashbord](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#1.-Strona-główna---Dashbord)
+  [1. Strona główna - Dashbord](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#1-Strona-główna---Dashbord)
   
-  [2. Logowanie/Wylogowywanie](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#Logowanie/Wylogowywanie)
+  [2. Logowanie/Wylogowywanie](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#2-Logowanie/Wylogowywanie)
   
-  [3. Dodawanie gracza](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#Dodawanie-gracza)
+  [3. Dodawanie gracza](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#3-Dodawanie-gracza)
   
-  [4. Aktualizacja danych gracza](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#Aktualizacja-danych-gracza)
+  [4. Aktualizacja danych gracza](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#4-Aktualizacja-danych-gracza)
   
-  [5. Przeglądanie bazy danych graczy](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#Główne-funkcjonalności-aplikacji)
+  [5. Przeglądanie bazy danych graczy](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#5-przeglądanie-bazy-danych-graczy)
   
-  [6. Dodawanie meczu](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#6.Dodawanie-meczu)
+  [6. Dodawanie meczu](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#6-Dodawanie-meczu)
   
-  [7. Dodawanie raportu](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#7.Dodawanie-raportu)
+  [7. Dodawanie raportu](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#7-Dodawanie-raportu)
   
   
 
