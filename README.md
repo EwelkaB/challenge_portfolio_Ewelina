@@ -2,9 +2,9 @@
 ## Subtask 1 
 9 punktów
 ## Subask 3
-*Cześć! Jestem Ewelina i aktualnie przebranżawiam sie z księgowej na testera manualnego. Udział w tym challengu pozwoli mi sprawdzić zdobyta do tej pory wiedzę z zakresu testowania oraz zdobyć praktyczne umiejętnośći, które będę mogła wykorzystać podczas rekrutacji do mojej pierwszej pracy jako tester. :)* 
+*Cześć! 😃 Jestem Ewelina i aktualnie przebranżawiam sie z księgowej na testera manualnego. Udział w tym challengu pozwoli mi sprawdzić zdobyta do tej pory wiedzę z zakresu testowania oraz zdobyć praktyczne umiejętnośći, które będę mogła wykorzystać podczas rekrutacji do mojej pierwszej pracy jako tester. :)* 
 
-*Liczę na to, że dzięki temu projektowi, to czego sie dowiedziałam o testowaniu zacznie układać sie w logiczna całość i doda mi motywacji do dalszych działań.*
+*Liczę na to, że dzięki temu projektowi, to czego sie dowiedziałam o testowaniu zacznie układać sie w logiczna całość i doda mi motywacji do dalszych działań. 💪*
 
 *Ewelina*
 ## Subtask 4
@@ -12,7 +12,7 @@ _**Do czego służy aplikacja?**_
 
 Aplikacja jest przeznaczona dla skautów piłi nożnej, czyli łowców talentów, którzy dzięki zebranym tutaj informacja mogą łatwo wyszukać najbardziej wartościowych zawodników.
 
-_**Funkcjonalności**_
+_**Głowne funkcjonalności aplikacji**_
 
 **1. Strona głóna - Dashbord**
 
