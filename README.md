@@ -19,12 +19,13 @@
 
 _**Do czego służy aplikacja?**_
 
-Aplikacja jest przeznaczona dla skautów piłi nożnej, czyli łowców talentów, którzy dzięki zebranym tutaj informacja mogą łatwo wyszukać najbardziej wartościowych zawodników.
+Aplikacja jest przeznaczona dla skautów piłki nożnej, czyli "łowców talentów", którzy dzięki zebranym tutaj informacją mogą łatwo wyszukać najbardziej wartościowych zawodników. Ta aplikacja powinna umożliwić dodanie nowego gracza do bazy i uzupełnienie wszystkich kluczowych informacji o nim, jak również wpisanie jego wyników i osiągnięć na boisku. Poprawnie stworzona baza danych graczy powinna pozwolić  na tworzenia indywidualnych raportów z wynikami każdego z graczy oraz ich porównywanie.
 
-_**Głowne funkcjonalności aplikacji**_
+_**Główne funkcjonalności aplikacji**_
 
 **1. Strona główna - Dashbord**
 
+Strona główna aplikacji na którą przenosimy sie po poprawnym zalogowaniu powinna być przejrzysta i czytela. Z menu łatwo można wybrać główne funkcjonalności, a poruszanie sie po stronie powinno być intuicyjne. Poza tym logo i kafeli powinny być rozmieszczone równomiernie i utrzymane w określonej kolorystyce.  
 Wygląd strony nie jest intuicyjny. Jest ona mało czytelna,  trudno jest znaleźć odnośniki do głównych funkcjonalności. Menu główne jest bardzo krótkie i nie ułatwia poruszania się po aplikacji. Kafelki są mocno rozstrzelone po stronie co powoduje, że źle się to ogląda. 
 Aplikacja lepiej się prezentuje jeśli wyświetlimy ja na urządzeniu mobilnym (np.  telefon Samsung lub iPhone). Brak udogodnień dla osób słabowidzących ( dopasowanie kontrastu wyświetlanej strony, zmiana wielkości czcionki). 
 
@@ -35,7 +36,7 @@ Zauważone blędy:
 *	Kliknięcie w kafelki na górze strony nie powoduje żadnej akcji, nie przenosi użytkownika do listy graczy czy bazy meczy.
 *	Kafelki u góry strony zawierają bezużyteczne i mało precyzyjne  informacje np. Ilość akcji  - jakich akcji ?? Ilość meczy - rozegranych ? do rozegrania? w sezonie ? w jakim okresie czasu? Ilość akcji – na boisku, na stonce aplikacji???
 *	Kafelki na górze strony mają różne kolory, a informacje w nich zawarte są bezużyteczne. 
-*	Opcja wyboru języka została umieszczona w Menu łównymm zamiast w prawym górnym rogu, co nie jest intuicyjne. 
+*	Opcja wyboru języka została umieszczona w enu głównymm zamiast w prawym górnym rogu, co nie jest intuicyjne. 
 *	Z poziomu Menu głównego nie mam dostępu do funkcji dodawania meczu czy tworzenia raportu
 
 
