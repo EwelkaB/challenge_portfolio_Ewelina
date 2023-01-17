@@ -39,7 +39,7 @@ Aplikacja jest przeznaczona dla skautów piłki nożnej czyli "łowców talentó
 
 #### **1. Strona główna - Dashboard**
 
-W tej funkcjonalności na stronie głównej aplikacji dosępne są linki, które pozwalaja na dodane do bazy nowego graczza, śledzenie ostatnich aktywnośći w aplikacji, wybór jezyka w jakim bedzie wyświetlana strona. Dodatkowo widoczne sa informacje o Ilości graczy, Ilości meczy i Ilości raportów oraz akcji. Na stroni głównej umieszczone jest logo organizacji  oraz link to kontaktu. 
+W tej funkcjonalności na stronie głównej aplikacji dostępne są linki, które pozwalaja na dodanie do bazy nowego gracza, śledzenie ostatnich aktywnośći w aplikacji, wybór jezyka w jakim będzie wyświetlana strona. Dodatkowo widoczne sa informacje o ilości graczy, ilości meczy i ilości raportów oraz akcji. Na stroni głównej umieszczone jest logo organizacji  oraz link to kontaktu. 
 
 Wygląd strony nie jest intuicyjny. Jest ona mało czytelna, trudno jest znaleźć odnośniki do głównych funkcjonalności. Menu główne jest bardzo krótkie i nie ułatwia poruszania się po aplikacji. Kafelki są mocno rozstrzelone po stronie co powoduje, że źle się to ogląda. 
 Aplikacja lepiej się prezentuje jeśli wyświetlimy ja na urządzeniu mobilnym (np.  telefon Samsung lub iPhone). Brak udogodnień dla osób słabowidzących ( dopasowanie kontrastu wyświetlanej strony, zmiana wielkości czcionki). 
@@ -67,7 +67,7 @@ Ta funkcjonalność umożliwia dodanie nowego zawodnika do bazy. Po kliknięciu 
 
 Zauważone błędy/ proponwane usprawnienia:
 * Brak walidacji pól: dopuszczalne wartość ujemne w polach Waga, Wzrost, pole Data urodzenia pozwala wpisać datę w przyszłości, rok urodzenia można wpisać dowolny bez żadnych ograniczeń, w polach tekstowych można użyć zarówno liter jak i znaków specjalnych, w polu Telefon można wpisać litery.
-* Brak walidacji pól wpływa n abezpieczeństwo aplikacji.
+* Brak walidacji pól wpływa na bezpieczeństwo aplikacji.
 *	Pola tekstowe nie mają graniczonej liczba znaków jakie można wprowadzić w danym polu. 
 *	Możliwe jest dodanie gracza do bazy bez kompletu informacji – tylko 3 pola są obowiązkowe ( Imię, Nazwisko, Data urodzenia) 
 *	Pola z danymi do kontaktu ( E-mail, Telefon ) nie są wymaganea powinny być. 
@@ -77,7 +77,7 @@ Zauważone błędy/ proponwane usprawnienia:
 
 #### **4. Aktualizacja danych gracza**
 
-Ta funkcjonalność pozwala na aktualizacje wszystkich danych zawodnika istniejącego w bazie. 
+Ta funkcjonalność pozwala na aktualizacje wszystkich danych zawodnika istniejącego już w bazie. 
 
 Zauważone błędy/ proponwane usprawnienia:
 *	Pola obowiązkowe mogą być zmienione w dowolny sposób – brak walidacji.
@@ -95,7 +95,7 @@ Zauważone błędy/ proponwane usprawnienia:
 *	Sytuacja powtarza się również przy sortowaniu kolumny Wiek i  Pozycja, tu również nie jest możliwe prawidłowe prezentowanie danych w tabeli. Zbyt długie ciągi znaków wpisane w pola z danymi graczy powodują rozciągnięcie tabeli. 
 *	Kolumna Mecze i Raporty nie mają opcji sortowania.
 *	Drukowanie – nie mamy opcji drukowania widoku tabeli taki jak jest prezentowany na ekranie. Bez względu na to jakie kolumny wybierzemy do prezentacji w tabeli, dane na wydruku się nie zmienią. 
-*	Pobieranie danych z tabeli – plik CSV zawiera tylko dane, które były prezentowane na  ekranie  w momencie pobierana. Nie wszystkie dane w pliku są czytelne, zależy to od tego w jakiej postaci były wprowadzone dane do formularza. 
+*	Pobieranie danych z tabeli – plik CSV zawiera tylko dane, które były prezentowane na  ekranie  w momencie pobierana. Nie wszystkie dane w pliku są czytelne. 
 *	W menu głównym w folderze Gracze brakuje opcji podziału na grupy wiekowe ( młodzik, junior, kadet) -a jest to kluczowa informacja.
 
 #### **6. Dodawanie meczu**
