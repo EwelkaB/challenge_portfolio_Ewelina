@@ -27,6 +27,8 @@
   
   [7. Dodawanie raportu](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#7-Dodawanie-raportu)
   
+* [Podsumowanie](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#Podsumowanie)
+  
   
 
 #### _**Do czego służy aplikacja?**_
@@ -120,6 +122,10 @@ Zauważone błędy:
 *	Widoczne w raporcie paski edycji tekstu oraz opisy/ wyjaśnienia  czego dotyczy dana cześć raportu ( powinny się pojawiać przy najechaniu myszką na ikonkę  informacyjną). 
 *	Kolejność prezentowanych danych jest nielogiczna, dane statystyczne powinny się znaleźć w raporcie przed podsumowaniem i recenzją. 
 
+#### _**Podsumowanie**_
+
+W mojej ocenie testowana aplikacja jest ciekawym narzędziem do zbierania danych o zawodnikach piłki nożnej i może być pomocna przy poszukiwaniu młodych dobrze zapowiadających się sportowców. Jednak, aby do tego doszło potrzebne są nakłady czasu i pracy zarówno po stronie programistów jak i testerów. :blush: 
+ 
 
 
 
