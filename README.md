@@ -39,7 +39,7 @@ Aplikacja jest przeznaczona dla skautów piłki nożnej czyli "łowców talentó
 
 #### **1. Strona główna - Dashboard**
 
-W tej funkcjonalności na stronie głównej aplikacji dostępne są linki, które pozwalaja na dodanie do bazy nowego gracza, śledzenie ostatnich aktywnośći w aplikacji, wybór jezyka w jakim będzie wyświetlana strona. Dodatkowo widoczne sa informacje o ilości graczy, ilości meczy i ilości raportów oraz akcji. Na stroni głównej umieszczone jest logo organizacji  oraz link to kontaktu. 
+W tej funkcjonalności na stronie głównej aplikacji dostępne są linki, które pozwalaja na dodanie do bazy nowego gracza, śledzenie ostatnich aktywnośći w aplikacji, wybór jezyka w jakim będzie wyświetlana strona. Dodatkowo widoczne są informacje o ilości graczy, ilości meczy i ilości raportów oraz akcji. Na stronie głównej umieszczone jest logo organizacji  oraz link to kontaktu. 
 
 Wygląd strony nie jest intuicyjny. Jest ona mało czytelna, trudno jest znaleźć odnośniki do głównych funkcjonalności. Menu główne jest bardzo krótkie i nie ułatwia poruszania się po aplikacji. Kafelki są mocno rozstrzelone po stronie co powoduje, że źle się to ogląda. 
 Aplikacja lepiej się prezentuje jeśli wyświetlimy ja na urządzeniu mobilnym (np.  telefon Samsung lub iPhone). Brak udogodnień dla osób słabowidzących ( dopasowanie kontrastu wyświetlanej strony, zmiana wielkości czcionki). 
@@ -125,7 +125,7 @@ Zauważone błędy/ proponwane usprawnienia:
 
 #### _**Podsumowanie**_
 
-W mojej ocenie testowana aplikacja jest ciekawym narzędziem do zbierania danych o zawodnikach piłki nożnej i może być pomocna przy poszukiwaniu młodych dobrze zapowiadających się sportowców. Konieczne jest jednak poprawienie  krytycznych blędow związanych z zapewnieniem bezpieczeństwa oraz implementacja szeregu usprawnień zwiazanych z "User Experience"  :blush: 
+W mojej ocenie testowana aplikacja jest ciekawym narzędziem do zbierania danych o zawodnikach piłki nożnej i może być pomocna przy poszukiwaniu młodych dobrze zapowiadających się sportowców. Konieczne jest jednak poprawienie szeregu blędów ( w tym krytycznych blędow związanych z zapewnieniem bezpieczeństwa aplikacji ) oraz implementacja usprawnień zwiazanych z "User Experience"  :blush: 
 
 ## Subtask 5
 
