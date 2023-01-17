@@ -10,10 +10,10 @@
 ## Subtask 4
 
 ### Tabel of contents
-* [Do czego służy aplikacja](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#Do-czego-służy-aplikacja)
-* [Glówne funkcjonalności aplikacji](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#Glówne-funkcjonalności-aplikacji)
+* [Do czego służy aplikacja](https://github.com/EwelkaB/challenge_portfolio_Ewelina#Do-czego-służy-aplikacja)
+* [Glówne funkcjonalności aplikacji](https://github.com/EwelkaB/challenge_portfolio_Ewelina#Glówne-funkcjonalności-aplikacji)
   
-  [1. Strona główna - Dashbord](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#Strona-gówna---Dashbord)
+  [1. Strona główna - Dashbord](https://github.com/EwelkaB/challenge_portfolio_Ewelina#Strona-gówna---Dashbord)
   
   [2. Logowanie/Wylogowywanie](https://github.com/EwelkaB/challenge_portfolio_Ewelina#Logowanie/Wylogowywanie)
 
