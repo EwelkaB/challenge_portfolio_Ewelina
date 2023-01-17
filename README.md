@@ -8,13 +8,22 @@
 
 *Ewelina*
 ## Subtask 4
+
+### Tabel of contents
+* [Do czego służy aplikacja](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#Do-czego-służy-aplikacja)
+* [Glówne funkcjonalności aplikacji](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#Glówne-funkcjonalności-aplikacji)
+  
+  [1. Strona główna - Dashbord](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#Strona-gówna---Dashbord)
+  
+  [2. Logowanie/Wylogowywanie](https://github.com/EwelkaB/challenge_portfolio_Ewelina#Logowanie/Wylogowywanie)
+
 _**Do czego służy aplikacja?**_
 
 Aplikacja jest przeznaczona dla skautów piłi nożnej, czyli łowców talentów, którzy dzięki zebranym tutaj informacja mogą łatwo wyszukać najbardziej wartościowych zawodników.
 
 _**Głowne funkcjonalności aplikacji**_
 
-**1. Strona głóna - Dashbord**
+**1. Strona główna - Dashbord**
 
 Wygląd strony nie jest intuicyjny. Jest ona mało czytelna,  trudno jest znaleźć odnośniki do głównych funkcjonalności. Menu główne jest bardzo krótkie i nie ułatwia poruszania się po aplikacji. Kafelki są mocno rozstrzelone po stronie co powoduje, że źle się to ogląda. 
 Aplikacja lepiej się prezentuje jeśli wyświetlimy ja na urządzeniu mobilnym (np.  telefon Samsung lub iPhone). Brak udogodnień dla osób słabowidzących ( dopasowanie kontrastu wyświetlanej strony, zmiana wielkości czcionki). 
