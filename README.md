@@ -2,7 +2,7 @@
 ## Subtask 1 
 9 punktów
 ## Subask 3
-*Cześć! 😃 Jestem Ewelina i aktualnie przebranżawiam sie z księgowej na testera manualnego. Udział w tym challengu pozwoli mi sprawdzić zdobyta do tej pory wiedzę z zakresu testowania oraz zdobyć praktyczne umiejętnośći, które będę mogła wykorzystać podczas rekrutacji do mojej pierwszej pracy jako tester. :)* 
+*Cześć! 😃 Jestem Ewelina i aktualnie przebranżawiam sie z księgowej na testera manualnego. Udział w tym challengu pozwoli mi sprawdzić zdobytą do tej pory wiedzę z zakresu testowania oraz zdobyć praktyczne umiejętnośći, które będę mogła wykorzystać podczas rekrutacji do mojej pierwszej pracy jako tester. :)* 
 
 *Liczę na to, że dzięki temu projektowi, to czego sie dowiedziałam o testowaniu zacznie układać sie w logiczna całość i doda mi motywacji do dalszych działań. 💪*
 
@@ -17,7 +17,7 @@
   
   [2. Logowanie/Wylogowywanie](https://github.com/EwelkaB/challenge_portfolio_Ewelina/#Logowanie/Wylogowywanie)
 
-_**Do czego służy aplikacja?**_
+#### _**Do czego służy aplikacja?**_
 
 Aplikacja jest przeznaczona dla skautów piłki nożnej, czyli "łowców talentów", którzy dzięki zebranym tutaj informacją mogą łatwo wyszukać najbardziej wartościowych zawodników. Ta aplikacja powinna umożliwić dodanie nowego gracza do bazy i uzupełnienie wszystkich kluczowych informacji o nim, jak również wpisanie jego wyników i osiągnięć na boisku. Poprawnie stworzona baza danych graczy powinna pozwolić na łatwe ich filtrowanie oraz tworzenie indywidualnych raportów dla każdego z graczy. 
 
