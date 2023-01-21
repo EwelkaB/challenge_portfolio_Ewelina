@@ -1,3 +1,10 @@
+# Tabel of contents
+
+[Task 1](https://github.com/EwelkaB/challenge_portfolio_Ewelina/blob/main/README.md#task-1)
+
+[Task 2](https://github.com/EwelkaB/challenge_portfolio_Ewelina/blob/main/README.md#task-2)
+
+
 # Task 1
 ## Subtask 1 
 9 punktów
