@@ -132,6 +132,13 @@ W mojej ocenie testowana aplikacja jest ciekawym narzędziem do zbierania danych
 Dołączyłam do ekipy w Jira :smile: 
 
 https://justboat.atlassian.net/jira/software/projects/CPP/boards/1
+
+# Task 2
+## Subtask 1 
+
+## Subtask 2
+
+## Subtask 3
  
 
 
