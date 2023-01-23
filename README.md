@@ -146,7 +146,23 @@ https://justboat.atlassian.net/jira/software/projects/CPP/boards/1
 ## Subtask 2
 
 ## Subtask 3
- 
+
+#### _**Po co piszemy test case'y?**_
+
+Test case’y piszemy po to aby:
+* dobrze rozplanować to co chcemy przetestować
+* wyestymować czas potrzebny do przeprowadzenie testów
+* wyłapać brakujące informacje w dostarczonej dokumentacji projektowej 
+* mieć dokładny, jasny i czytelny opis funkcjonalności aplikacji oraz opisane oczekiwane działanie systemu / zgodne z oczekiwaniami
+* razie problemów kadrowych łatwo wdrożyć nowa osobę która będzie kontynuować testy
+* na ich podstawie po zakończonych testach budować raporty z wykonania testów
+* upewnić się, że testerzy i deweloperzy jednakowo rozumieją zadanie ( system ) które ma być wykonane
+* pokazać co już zostało przetestowane, a co nie i na jakim etapie testów jesteśmy 
+* znaleźć defekty i zweryfikować poprawność systemu 
+* upewnić się czy system może już być wprowadzony na środowisko produkcyjne
+* przy przeprowadzaniu retestów można było sprawdzić czy naprawione błędy już nie występują
+
+
 
 
 
