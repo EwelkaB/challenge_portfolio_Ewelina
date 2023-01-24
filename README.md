@@ -143,6 +143,8 @@ https://justboat.atlassian.net/jira/software/projects/CPP/boards/1
 # Task 2
 ## Subtask 1 
 
+https://docs.google.com/spreadsheets/d/1_jV7GjwASGaW7uhVWbbMcC0yWcDtggTtLqbqWk8J-Jo/edit#gid=0
+
 ## Subtask 2
 
 ## Subtask 3
@@ -153,7 +155,7 @@ Test case’y piszemy po to aby:
 * dobrze rozplanować to co chcemy przetestować
 * wyestymować czas potrzebny do przeprowadzenie testów
 * wyłapać brakujące informacje w dostarczonej dokumentacji projektowej 
-* mieć dokładny, jasny i czytelny opis funkcjonalności aplikacji oraz opisane oczekiwane działanie systemu / zgodne z oczekiwaniami
+* mieć dokładny, jasny i czytelny opis funkcjonalności aplikacji zgodnych z oczekiwaniami
 * razie problemów kadrowych łatwo wdrożyć nowa osobę która będzie kontynuować testy
 * na ich podstawie po zakończonych testach budować raporty z wykonania testów
 * upewnić się, że testerzy i deweloperzy jednakowo rozumieją zadanie ( system ) które ma być wykonane
@@ -161,6 +163,12 @@ Test case’y piszemy po to aby:
 * znaleźć defekty i zweryfikować poprawność systemu 
 * upewnić się czy system może już być wprowadzony na środowisko produkcyjne
 * przy przeprowadzaniu retestów można było sprawdzić czy naprawione błędy już nie występują
+
+## Subtask 4
+
+https://docs.google.com/spreadsheets/d/1Rq8H40srB25dwZM62AmGUczVc_Wvi4qV9mNNtsdvhqw/edit#gid=0
+
+
 
 
 
