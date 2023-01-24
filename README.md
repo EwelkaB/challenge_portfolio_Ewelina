@@ -147,6 +147,8 @@ https://docs.google.com/spreadsheets/d/1_jV7GjwASGaW7uhVWbbMcC0yWcDtggTtLqbqWk8J
 
 ## Subtask 2
 
+https://docs.google.com/spreadsheets/d/14hhGsmBSDINuQ_n9FJ98Itue3VjMqvfR0PEzMA42wfw/edit#gid=0
+
 ## Subtask 3
 
 #### _**Po co piszemy test case'y?**_
