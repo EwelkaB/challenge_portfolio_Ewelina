@@ -4,6 +4,8 @@
 
 [Task 2](https://github.com/EwelkaB/challenge_portfolio_Ewelina/blob/main/README.md#task-2)
 
+[Task 3](https://github.com/EwelkaB/challenge_portfolio_Ewelina/blob/main/README.md#task-3)
+
 
 # Task 1
 ## Subtask 1 
@@ -169,6 +171,13 @@ Test case’y piszemy po to aby:
 ## Subtask 4
 
 https://docs.google.com/spreadsheets/d/1Rq8H40srB25dwZM62AmGUczVc_Wvi4qV9mNNtsdvhqw/edit#gid=0
+
+# Task 3
+## Subtask 1 
+
+## Subtask 2 
+
+## Subtask 3 
 
 
 
