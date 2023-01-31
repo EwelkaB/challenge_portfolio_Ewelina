@@ -175,6 +175,8 @@ https://docs.google.com/spreadsheets/d/1Rq8H40srB25dwZM62AmGUczVc_Wvi4qV9mNNtsdv
 # Task 3
 ## Subtask 1 
 
+https://docs.google.com/spreadsheets/d/1Dj_u6KK4TmcWMcswV8c-LoGx4mjIfjsEb3Qx4HOyuBs/edit#gid=0
+
 ## Subtask 2 
 
 ## Subtask 3 
