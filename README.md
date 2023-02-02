@@ -180,10 +180,11 @@ https://docs.google.com/spreadsheets/d/1Dj_u6KK4TmcWMcswV8c-LoGx4mjIfjsEb3Qx4HOy
 ## Subtask 2 
 
 https://docs.google.com/spreadsheets/d/1WzNosK80OIFhVQK_Y3qiNMk-MIub_Juprve9cnlIsb8/edit#gid=250653879
+https://docs.google.com/spreadsheets/d/17l4eSsO67av_doPfC72_he-xIuj8uXPDjXvKNiSILzU/edit#gid=1426167314
 
 ## Subtask 3 
 
-https://docs.google.com/spreadsheets/d/17l4eSsO67av_doPfC72_he-xIuj8uXPDjXvKNiSILzU/edit#gid=1426167314
+https://docs.google.com/document/d/1xsqKnYKGjQUD-gGd_atLLBd4oIccjO0jRUEMt2kmdbc/edit
 
 
 
