@@ -6,6 +6,8 @@
 
 [Task 3](https://github.com/EwelkaB/challenge_portfolio_Ewelina/blob/main/README.md#task-3)
 
+[Task 4](https://github.com/EwelkaB/challenge_portfolio_Ewelina/blob/main/README.md#task-4)
+
 
 # Task 1
 ## Subtask 1 
@@ -185,6 +187,23 @@ https://docs.google.com/spreadsheets/d/17l4eSsO67av_doPfC72_he-xIuj8uXPDjXvKNiSI
 ## Subtask 3 
 
 https://docs.google.com/document/d/1xsqKnYKGjQUD-gGd_atLLBd4oIccjO0jRUEMt2kmdbc/edit
+
+# Task 4
+## Subtask 1 
+
+## Subtask 2
+
+## Subtask 3
+
+#### _**Do czego służy aplikacja OLX?**_
+
+Aplikacja OLX  ma pełnić rolę lokalnej tablicy ogłoszeń. Ma pomagać w łączeniu ze sobą osób, które chcą coś sprzedać, oddać lub zamienić z tymi którzy danej rzeczy lub usługi poszukują. 
+Użytkownikiem końcowym aplikacji są osoby szukające okazji do zakupu po atrakcyjnej cenie  rzeczy używanych, tańszych, unikalnych lub staroci.
+W moje ocenie aplikacja jest user friendly. W dolnej części ekranu  widoczne jest menu, które umożliwia łatwe nawigowanie po aplikacji. Strona graficzna jest kolorowa i czytelna. Kolorowe obrazki przy nazwach kategorii ułatwiają wyszukiwanie i są intuicyjne. Pasek wyszukiwania umieszczony  na górze strony jest dobrze widoczny i takie umiejscowienie jest bardzo intuicyjne. Listę wyświetlanych ogłoszeń łatwo się scrolluje. Wszystkie funkcjonalności są bardzo łatwe do opanowania i intuicyjne.
+Jako dodatkowe usprawnienie w moje ocenie można dodać funkcję, która spowoduje, że  kliknięcie na ikonę “Szukaj” będzie rozwijać  listę z nazwami kategorii. Takie rozwiązanie zapewni szybszy i łatwiejszy wybór kategori, bez klikania w “Zobacz wszystkie” lub scrollowania po ikonach na górze ekranu.
+Według mnie testowane aplikacji mobilnej jest bardziej skomplikowane niż testowanie aplikacji desktopowej. Przy testowaniu aplikacji mobilnej  należy  uwzględnić i zasymulować wiele akcji. które mogą wystąpić  na urządzeniu mobilnym w trakcie korzystania z aplikacji ( np. brak lub zmianę sieci, tryb oszczędzania baterii, przychodzące połączenie lub wiadomość).
+
+
 
 
 
