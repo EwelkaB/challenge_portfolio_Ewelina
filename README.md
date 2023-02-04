@@ -198,9 +198,13 @@ https://docs.google.com/document/d/1xsqKnYKGjQUD-gGd_atLLBd4oIccjO0jRUEMt2kmdbc/
 #### _**Do czego służy aplikacja OLX?**_
 
 Aplikacja OLX  ma pełnić rolę lokalnej tablicy ogłoszeń. Ma pomagać w łączeniu ze sobą osób, które chcą coś sprzedać, oddać lub zamienić z tymi którzy danej rzeczy lub usługi poszukują. 
-Użytkownikiem końcowym aplikacji są osoby szukające okazji do zakupu po atrakcyjnej cenie  rzeczy używanych, tańszych, unikalnych lub staroci.
+
+Użytkownikiem końcowym aplikacji są osoby szukające okazji do zakupu po atrakcyjnej cenie  rzeczy używanych, tańszych, unikalnych lub staroci.🚗🛴🪑
+
 W moje ocenie aplikacja jest user friendly. W dolnej części ekranu  widoczne jest menu, które umożliwia łatwe nawigowanie po aplikacji. Strona graficzna jest kolorowa i czytelna. Kolorowe obrazki przy nazwach kategorii ułatwiają wyszukiwanie i są intuicyjne. Pasek wyszukiwania umieszczony  na górze strony jest dobrze widoczny i takie umiejscowienie jest bardzo intuicyjne. Listę wyświetlanych ogłoszeń łatwo się scrolluje. Wszystkie funkcjonalności są bardzo łatwe do opanowania i intuicyjne.
+
 Jako dodatkowe usprawnienie w moje ocenie można dodać funkcję, która spowoduje, że  kliknięcie na ikonę “Szukaj” będzie rozwijać  listę z nazwami kategorii. Takie rozwiązanie zapewni szybszy i łatwiejszy wybór kategori, bez klikania w “Zobacz wszystkie” lub scrollowania po ikonach na górze ekranu.
+
 Według mnie testowane aplikacji mobilnej jest bardziej skomplikowane niż testowanie aplikacji desktopowej. Przy testowaniu aplikacji mobilnej  należy  uwzględnić i zasymulować wiele akcji. które mogą wystąpić  na urządzeniu mobilnym w trakcie korzystania z aplikacji ( np. brak lub zmianę sieci, tryb oszczędzania baterii, przychodzące połączenie lub wiadomość).
 
 
