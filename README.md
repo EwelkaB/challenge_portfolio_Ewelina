@@ -191,6 +191,8 @@ https://docs.google.com/document/d/1xsqKnYKGjQUD-gGd_atLLBd4oIccjO0jRUEMt2kmdbc/
 # Task 4
 ## Subtask 1 
 
+https://docs.google.com/spreadsheets/d/1MrMVrJvJLcItHRkCHet-FsFIdT3WqS6NX9RUebGW8Ak?authuser=ewelka.blazejowska%40gmail.com&usp=drive_fs
+
 ## Subtask 2
 
 ## Subtask 3
