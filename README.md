@@ -195,6 +195,8 @@ https://docs.google.com/spreadsheets/d/1MrMVrJvJLcItHRkCHet-FsFIdT3WqS6NX9RUebGW
 
 ## Subtask 2
 
+https://docs.google.com/spreadsheets/d/1vbcgIpb6ddbJiiroKE15A0F7kA9MB1yJrtsudpbwopI/edit#gid=2052216741
+
 ## Subtask 3
 
 #### _**Do czego służy aplikacja OLX?**_
