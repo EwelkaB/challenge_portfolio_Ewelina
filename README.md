@@ -249,12 +249,15 @@ SELECT * FROM `actors` WHERE actor_id >= 4 AND actor_id <= 7
 
 #### _**6.Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.**_
 
-SELECT * FROM `customers` WHERE customer_id IN (2, 4, 6) 
+SELECT * FROM `customers` WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6
 
 <img width="178" alt="image" src="https://user-images.githubusercontent.com/122117057/219971405-70cd80e8-1ddf-452d-bcc0-c712abc2dd61.png">
 
 #### _**7.Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.**_
 
+SELECT * FROM `customers` WHERE customer_id IN (1, 3, 5) 
+
+<img width="184" alt="image" src="https://user-images.githubusercontent.com/122117057/219971483-f1e1e109-a900-4662-b46d-2d6128aa32a2.png">
 
 
 #### _**8.Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.**_
