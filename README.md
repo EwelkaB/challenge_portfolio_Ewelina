@@ -216,9 +216,12 @@ Według mnie testowane aplikacji mobilnej jest bardziej skomplikowane niż testo
 # Task 5
 ## Subtask 1 
 
+Done ✔🎧💻
+
 <img width="902" alt="image" src="https://user-images.githubusercontent.com/122117057/219972418-38163e9a-1a58-4128-bf0f-3e6946716667.png">
 
-Podstawowe zapytania SQL 
+
+### Podstawowe zapytania SQL 
 * SELECT
 * FROM
 * WHERE
