@@ -8,6 +8,8 @@
 
 [Task 4](https://github.com/EwelkaB/challenge_portfolio_Ewelina/blob/main/README.md#task-4)
 
+[Task 5](https://github.com/EwelkaB/challenge_portfolio_Ewelina/blob/main/README.md#task-5)
+
 
 # Task 1
 ## Subtask 1 
@@ -211,6 +213,21 @@ Jako dodatkowe usprawnienie w moje ocenie można dodać funkcję, która spowodu
 
 Według mnie testowane aplikacji mobilnej jest bardziej skomplikowane niż testowanie aplikacji desktopowej. Przy testowaniu aplikacji mobilnej  należy  uwzględnić i zasymulować wiele akcji. które mogą wystąpić  na urządzeniu mobilnym w trakcie korzystania z aplikacji ( np. brak lub zmianę sieci, tryb oszczędzania baterii, przychodzące połączenie lub wiadomość).
 
+# Task 5
+## Subtask 1 
+
+## Subtask 3 
+#### _**1.Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**_
+#### _**2.Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**_
+#### _**3.Wyświetl film, który powstał w 2019 roku.**_
+#### _**4.Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.**_
+#### _**5.Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$**_
+#### _**6.Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.**_
+#### _**7.Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.**_
+#### _**8.Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.**_
+#### _**9.Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.**_
+#### _**10.Wyświetl dane klienta, który nie ma podanego adresu email.**_
+#### _**11.Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.**_
 
 
 
