@@ -309,6 +309,10 @@ SELECT * FROM `movies` WHERE  ( price > 9)  AND (movie_id BETWEEN 2 and 8)
 #### _**19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał**_
 #### _**20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa**_
 
+## Subtask 2
+
+## Subtask 3 
+
 
 
 
