@@ -223,18 +223,20 @@ SELECT * FROM `actors` ORDER BY surname
 
 <img width="149" alt="image" src="https://user-images.githubusercontent.com/122117057/219970149-6bc4d8b4-21be-4eb8-b138-903776f0a3d6.png">
 
+#### _**2.Wyświetl film, który powstał w 2019 roku.**_
 
+SELECT * FROM `movies` WHERE year_of_production = 2019
 
-#### _**2.Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**_
-#### _**3.Wyświetl film, który powstał w 2019 roku.**_
-#### _**4.Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.**_
-#### _**5.Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$**_
-#### _**6.Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.**_
-#### _**7.Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.**_
-#### _**8.Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.**_
-#### _**9.Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.**_
-#### _**10.Wyświetl dane klienta, który nie ma podanego adresu email.**_
-#### _**11.Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.**_
+<img width="253" alt="image" src="https://user-images.githubusercontent.com/122117057/219970406-942f3e4f-becc-4199-a957-5c34cbb65ee3.png">
+
+#### _**3.Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.**_
+#### _**4.Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$**_
+#### _**5.Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.**_
+#### _**6.Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.**_
+#### _**7.Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.**_
+#### _**8.Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.**_
+#### _**9.Wyświetl dane klienta, który nie ma podanego adresu email.**_
+#### _**10.Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.**_
 
 
 
