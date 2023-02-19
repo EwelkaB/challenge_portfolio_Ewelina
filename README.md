@@ -259,10 +259,24 @@ SELECT * FROM `customers` WHERE customer_id IN (1, 3, 5)
 
 <img width="184" alt="image" src="https://user-images.githubusercontent.com/122117057/219971483-f1e1e109-a900-4662-b46d-2d6128aa32a2.png">
 
-
 #### _**8.Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.**_
+
+SELECT * FROM `actors` WHERE name LIKE "An%"
+
+<img width="128" alt="image" src="https://user-images.githubusercontent.com/122117057/219971773-b1f84c8e-8efa-4a48-9048-8c4973f62ce4.png">
+
 #### _**9.Wyświetl dane klienta, który nie ma podanego adresu email.**_
+
+SELECT * FROM `customers` WHERE email IS Null
+
+<img width="164" alt="image" src="https://user-images.githubusercontent.com/122117057/219971862-9ec26bb1-e1f8-4efb-8d68-574ef35524b4.png">
+
 #### _**10.Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.**_
+
+SELECT * FROM `movies` WHERE  ( price > 9)  AND (movie_id BETWEEN 2 and 8) 
+
+<img width="203" alt="image" src="https://user-images.githubusercontent.com/122117057/219972028-68d0b6ee-818d-4713-a3c9-9206dbcec5f6.png">
+
 
 
 
