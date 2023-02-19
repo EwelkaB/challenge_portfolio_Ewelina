@@ -243,9 +243,20 @@ SELECT title, price FROM `movies` WHERE price < 7
 
 #### _**5.Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.**_
 
+SELECT * FROM `actors` WHERE actor_id >= 4 AND actor_id <= 7
+
+<img width="146" alt="image" src="https://user-images.githubusercontent.com/122117057/219971185-76b0c421-8316-478d-8391-94c8ad64aa67.png">
 
 #### _**6.Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.**_
+
+SELECT * FROM `customers` WHERE customer_id IN (2, 4, 6) 
+
+<img width="178" alt="image" src="https://user-images.githubusercontent.com/122117057/219971405-70cd80e8-1ddf-452d-bcc0-c712abc2dd61.png">
+
 #### _**7.Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.**_
+
+
+
 #### _**8.Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.**_
 #### _**9.Wyświetl dane klienta, który nie ma podanego adresu email.**_
 #### _**10.Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.**_
