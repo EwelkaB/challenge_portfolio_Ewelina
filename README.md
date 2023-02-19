@@ -216,6 +216,19 @@ Według mnie testowane aplikacji mobilnej jest bardziej skomplikowane niż testo
 # Task 5
 ## Subtask 1 
 
+<img width="902" alt="image" src="https://user-images.githubusercontent.com/122117057/219972418-38163e9a-1a58-4128-bf0f-3e6946716667.png">
+
+Podstawowe zapytania SQL 
+* SELECT
+* FROM
+* WHERE
+* BETWEEN / AND 
+* ORDER BY ( DESC, ASC ) 
+* WHERE  - AND
+* WHERE -  OR
+* WHERE  - LIKE  
+
+
 ## Subtask 3 
 #### _**1.Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**_
 
