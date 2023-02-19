@@ -227,9 +227,15 @@ SELECT * FROM `actors` ORDER BY surname
 
 SELECT * FROM `movies` WHERE year_of_production = 2019
 
-<img width="253" alt="image" src="https://user-images.githubusercontent.com/122117057/219970406-942f3e4f-becc-4199-a957-5c34cbb65ee3.png">
+<img width="170" alt="image" src="https://user-images.githubusercontent.com/122117057/219970474-5aa6eabd-4d1f-4bff-8bd6-33b6b02f1a6a.png">
 
 #### _**3.Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.**_
+
+SELECT * FROM `movies` WHERE year_of_production BETWEEN 1900 AND 1999
+
+<img width="278" alt="image" src="https://user-images.githubusercontent.com/122117057/219970587-0c121f8b-2fbb-4872-b7f9-38607c246c6b.png">
+
+
 #### _**4.Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$**_
 #### _**5.Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.**_
 #### _**6.Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.**_
