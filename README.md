@@ -218,6 +218,13 @@ Według mnie testowane aplikacji mobilnej jest bardziej skomplikowane niż testo
 
 ## Subtask 3 
 #### _**1.Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**_
+
+SELECT * FROM `actors` ORDER BY surname
+
+<img width="149" alt="image" src="https://user-images.githubusercontent.com/122117057/219970149-6bc4d8b4-21be-4eb8-b138-903776f0a3d6.png">
+
+
+
 #### _**2.Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**_
 #### _**3.Wyświetl film, który powstał w 2019 roku.**_
 #### _**4.Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.**_
