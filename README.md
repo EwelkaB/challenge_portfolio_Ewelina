@@ -374,6 +374,12 @@ WHERE year_of_production > 2000
 
 #### _**20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa**_
 
+INSERT INTO customers VALUES (7, 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa')
+
+<img width="267" alt="image" src="https://user-images.githubusercontent.com/122117057/220181698-ff51247d-d1d0-4e67-bae4-b4fa290e4843.png">
+
+
+
 ## Subtask 2
 
 ## Subtask 3 
