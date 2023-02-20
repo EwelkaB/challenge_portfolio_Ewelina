@@ -339,6 +339,11 @@ ON movies.movie_id = sale.movie_id
 ALTER TABLE customers
 ADD COLUMN pseudonym VARCHAR ( 200)
 
+UPDATE customers SET pseudonym = concat ( LEFT(name,2), RIGHT ( surname,1))
+
+<img width="263" alt="image" src="https://user-images.githubusercontent.com/122117057/220177977-fb71e062-97c0-4f08-a70f-93dfbe7d7ecb.png">
+
+
 
 #### _**16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.**_
 
