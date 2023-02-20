@@ -299,6 +299,14 @@ SELECT * FROM `movies` WHERE  ( price > 9)  AND (movie_id BETWEEN 2 and 8)
 ## Subtask 1 
 
 #### _**11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈**_
+
+UPDATE customers
+SET Surname = "Muler"
+WHERE Surname= "Miler"
+
+<img width="226" alt="image" src="https://user-images.githubusercontent.com/122117057/220060732-f899273f-0955-40c3-a173-5019c30dbf90.png">
+
+ 
 #### _**12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.**_
 
 SELECT * FROM `sale` JOIN customers ON sale.customer_id = customers.customer_id
