@@ -321,6 +321,9 @@ WHERE sale.movie_id = 4
 
 #### _**15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag**_
 
+ALTER TABLE customers
+ADD COLUMN pseudonym VARCHAR ( 200)
+
 
 #### _**16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.**_
 
