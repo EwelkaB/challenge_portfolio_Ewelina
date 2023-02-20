@@ -306,19 +306,22 @@ WHERE Surname= "Miler"
 
 <img width="226" alt="image" src="https://user-images.githubusercontent.com/122117057/220060732-f899273f-0955-40c3-a173-5019c30dbf90.png">
 
- 
-#### _**12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.**_
+ #### _**12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.**_
 
 SELECT * FROM `sale` JOIN customers ON sale.customer_id = customers.customer_id
 WHERE sale.movie_id = 4
 
 <img width="314" alt="image" src="https://user-images.githubusercontent.com/122117057/219977782-4779224b-04b1-472b-a7f0-db204b337db4.png">
 
-
-
 #### _**13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com**_
+
+
 #### _**14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).**_
+
+
 #### _**15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag**_
+
+
 #### _**16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.**_
 
 SELECT *
@@ -327,9 +330,15 @@ WHERE movie_id IN ( SELECT movie_id from sale)
 
 <img width="291" alt="image" src="https://user-images.githubusercontent.com/122117057/219980779-4f49bc55-9e1a-4f49-bab7-2524333926d8.png">
 
-
-
 #### _**17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)**_
+
+SELECT name FROM actors
+UNION
+SELECT name FROM customers 
+ORDER BY name
+
+<img width="62" alt="image" src="https://user-images.githubusercontent.com/122117057/220063364-b9807112-15aa-4c70-b78d-992d66a4e2dc.png">
+
 #### _**18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).**_
 
 SELECT *, price + 2.5
@@ -338,9 +347,8 @@ WHERE year_of_production > 2000
 
 <img width="306" alt="image" src="https://user-images.githubusercontent.com/122117057/219978084-0aa5f576-2e09-4651-9c13-a33e22a2fade.png">
 
-
-
 #### _**19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał**_
+
 #### _**20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa**_
 
 ## Subtask 2
