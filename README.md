@@ -372,6 +372,17 @@ WHERE year_of_production > 2000
 
 #### _**19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał**_
 
+SELECT actors.name, actors.surname, movies.title
+FROM actors
+JOIN cast 
+ON actors.actor_id = cast.actor_id
+JOIN movies
+ON movies.movie_id = cast.movie_id
+WHERE actors.actor_id = 4
+
+<img width="124" alt="image" src="https://user-images.githubusercontent.com/122117057/220183262-0868ee0d-890f-4730-95c5-ca2f55aaff5c.png">
+
+
 #### _**20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa**_
 
 INSERT INTO customers VALUES (7, 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa')
