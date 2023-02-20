@@ -315,6 +315,12 @@ WHERE sale.movie_id = 4
 
 #### _**13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com**_
 
+UPDATE customers
+SET email  = "pati@mail.com"
+WHERE customer_id = 4
+
+<img width="188" alt="image" src="https://user-images.githubusercontent.com/122117057/220097342-44cfed06-7ecc-41da-a209-788aaf195fb3.png">
+
 
 #### _**14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).**_
 
