@@ -393,6 +393,8 @@ INSERT INTO customers VALUES (7, 'Honia', 'Stuczka-Kucharska', 'honia@mail.com',
 
 ## Subtask 2
 
+13 punktów
+
 ## Subtask 3 
 
 
