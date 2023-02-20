@@ -324,6 +324,15 @@ WHERE customer_id = 4
 
 #### _**14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).**_
 
+SELECT sale.sale_date, customers.name, customers.surname, movies.title
+FROM sale 
+INNER JOIN customers
+ON sale.customer_id = customers.customer_id
+INNER JOIN movies
+ON movies.movie_id = sale.movie_id
+
+<img width="248" alt="image" src="https://user-images.githubusercontent.com/122117057/220173124-1196a674-48db-45ba-b6de-8dd41988ca17.png">
+
 
 #### _**15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag**_
 
