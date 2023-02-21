@@ -228,10 +228,13 @@ Done ✔🎧💻
 * FROM
 * WHERE
 * BETWEEN / AND 
-* ORDER BY ( DESC, ASC ) 
+* ORDER BY (DESC, ASC) 
 * WHERE  - AND
 * WHERE -  OR
 * WHERE  - LIKE  
+* JOIN (LEFT, RIGHT, FULL)
+* GRUP BY
+* SELECT (COUNT, SUM, MIN, MAX, AVG)
 
 
 ## Subtask 3 
