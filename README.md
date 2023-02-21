@@ -390,12 +390,13 @@ INSERT INTO customers VALUES (7, 'Honia', 'Stuczka-Kucharska', 'honia@mail.com',
 <img width="267" alt="image" src="https://user-images.githubusercontent.com/122117057/220181698-ff51247d-d1d0-4e67-bae4-b4fa290e4843.png">
 
 
-
 ## Subtask 2
 
 13 punktów
 
 ## Subtask 3 
+
+[LINK do Portfolio](https://github.com/EwelkaB/PORTFOLIO/blob/main/README.md)
 
 
 
